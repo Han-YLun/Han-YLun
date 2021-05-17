@@ -5,5 +5,5 @@
 - 🤔 希望能够认识更多有趣的人
 - 💬 你可以和我讨论：开发、金融、投资等方面的知识
 
-![Han-YLun's github stats](https://github-readme-stats.vercel.app/api?username=Han-YLun&show_icons=true&theme=dracula) 
+![Han-YLun's github stats](https://github-readme-stats.vercel.app/api?username=Han-YLun&show_icons=true&theme=dracula&include_all_commits=true&hide=prs,contribs) 
 
