@@ -15,7 +15,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://github.com/Han-YLun
+[2]: https://github.com/Han-YLun
 ![Han-YLun's github stats](https://github-readme-stats.vercel.app/api?username=Han-YLun&show_icons=true&theme=dracula&include_all_commits=true&hide=prs,contribs) 
 
