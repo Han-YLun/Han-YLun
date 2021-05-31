@@ -6,16 +6,6 @@
 - 💬 你可以和我讨论：开发、金融、投资等方面的知识
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://github.com/Han-YLun
-[2]: https://github.com/Han-YLun
 ![Han-YLun's github stats](https://github-readme-stats.vercel.app/api?username=Han-YLun&show_icons=true&theme=dracula&include_all_commits=true&hide=prs,contribs) 
 
